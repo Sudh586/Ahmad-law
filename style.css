@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "poppins";
+    src: url(../webfonts/Poppins-Regular.ttf);
+}
+
+.popp {
+    font-family: "poppins";
+}
+
+.lhigh {
+    line-height: 58px;
+}
+
+.reverse-bullets {
+    direction: rtl;
+    /* Right to Left direction */
+    text-align: right;
+    /* Align text to right */
+}
